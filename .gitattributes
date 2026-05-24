@@ -2,3 +2,4 @@ games/logh.jsdos filter=lfs diff=lfs merge=lfs -text
 games/ft1.jsdos filter=lfs diff=lfs merge=lfs -text
 games/flying-sb.jsdos filter=lfs diff=lfs merge=lfs -text
 games/ekd5.jsdos filter=lfs diff=lfs merge=lfs -text
+games/ryan.jsdos filter=lfs diff=lfs merge=lfs -text
