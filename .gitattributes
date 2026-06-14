@@ -7,3 +7,4 @@ games/wizard2.jsdos filter=lfs diff=lfs merge=lfs -text
 games/cds95.jsdos filter=lfs diff=lfs merge=lfs -text
 games/silver.jsdos filter=lfs diff=lfs merge=lfs -text
 games/merturl1.jsdos filter=lfs diff=lfs merge=lfs -text
+games/corum3.jsdos filter=lfs diff=lfs merge=lfs -text
