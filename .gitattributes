@@ -12,3 +12,4 @@ games/wizard1.jsdos filter=lfs diff=lfs merge=lfs -text
 games/tkss3.jsdos filter=lfs diff=lfs merge=lfs -text
 games/fs1.jsdos filter=lfs diff=lfs merge=lfs -text
 games/ys1eternal.jsdos filter=lfs diff=lfs merge=lfs -text
+games/ys2eternal.jsdos filter=lfs diff=lfs merge=lfs -text
